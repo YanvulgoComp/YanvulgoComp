@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YanvulgoComp (Brazil)
 - 👀 I’m interested in home office work (global)
-- 🌱 I’m currently learning HTML and HSS
+- 🌱 I’m currently learning HTML,HSS and JavaScript
 - 💞️ I’m looking to collaborate on codes for html and hss (sites)
 - ⚡ Fun fact: i love being a software developer!!
 
