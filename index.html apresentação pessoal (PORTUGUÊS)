@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nome do seu site</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Sobre Você</a>
+                </li>
+                <li>
+                    <a href="index.html">Sua Formação</a> 
+                </li>
+                <li>
+                    <a href="contact.html">Seu Contato</a>
+                </li>
+            </ul>
+        </nav>
+
+        <header>
+            <div class="center">
+                <img src="./img/imagem de mim.png"></img>
+            </div>
+            <h1>Seu Nome</h1>
+            <h2>Seu Nome</h2>
+        </header>
+
+        <main>
+            <section>
+                <h3>título</h3>
+                <p>
+                    SEU TEXTO
+                </p>
+            </section>
+            <section>
+                <h3>Title</h3>
+                <p>
+                    SEU TEXTO
+                </p>
+            </section>
+            <section>
+                <h3>Title</h3>
+                <p>
+                    SEU TEXTO
+                </p>
+            </section>
+        </main>
+
+        <footer>
+            <a href="https://github.com/YanvulgoComp" target="_blank" rel="noopener noreferrer">
+                <img src="./img/github (1).svg"></img>
+                <p>Github</p>
+            </a>
+            <a href="https://www.linkedin.com/in/arthur-ian-672a48268/" target="_blank" rel="noopener noreferrer">
+                <img src="./img/linkedin.svg"></img>
+                <p>Linkedin</p>
+            </a>
+            <a href="https://www.youtube.com/channel/UCI8oBJW5GAU1pjo8vT5f9Ng" target="_blank" rel="noopener noreferrer">
+                <img src="./img/youtube.svg"></img>
+                <p>Youtube</p>
+            </a>
+        </footer>
+    </div>
+
+</body>
+
+</html>
